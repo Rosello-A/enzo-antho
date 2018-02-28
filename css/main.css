@@ -1,0 +1,17 @@
+@keyframes roulade{
+    0%{
+        transform: scale(-1.5)
+    }
+    
+    50%{
+        transform: scale(5);
+    }
+    
+    100%{
+        transform: scale(1.5)
+    }
+}
+
+h1{
+    animation: roulade 1s alternate infinite;
+}
