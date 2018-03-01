@@ -15,3 +15,16 @@
 h1{
     animation: roulade 1s ;
 }
+
+html{
+    background-color: #6441a5;
+}
+
+a{
+    text-decoration: none;
+    color :#333;
+}
+
+a:hover{
+    color:black;
+}
